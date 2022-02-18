@@ -1,0 +1,10 @@
+.action-button {
+  margin-right: 30px;
+  opacity: 0.3;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.action-button:hover {
+  opacity: 1;
+}

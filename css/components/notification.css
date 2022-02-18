@@ -1,0 +1,18 @@
+.notification {
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(230,230,230);
+  width: 100%;
+  justify-content: space-between;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.notification-information {
+  display: flex;
+  align-items: center;
+}
+
+.notification-details {
+  margin-left: 20px;
+}
