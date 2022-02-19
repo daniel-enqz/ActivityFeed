@@ -3,6 +3,7 @@
   opacity: 0.3;
   text-decoration: none;
   font-weight: bold;
+  color: black;
 }
 
 .action-button:hover {
